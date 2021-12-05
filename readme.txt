@@ -1,4 +1,4 @@
 Group Project for Agile Processes
 Group members:
 Sean Crowley, Aidas Karpavicius, Daniel Shklyar, Joao Tavares De Carvalho
-sdfas
+something new
